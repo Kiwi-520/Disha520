@@ -8,4 +8,4 @@ Let's connect! I'm always open to discussions, learning opportunities, and poten
 
 Pronouns: She/Her
 
-Did I mention I'm an aspiring ML expert?
+
