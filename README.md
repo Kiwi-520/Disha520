@@ -1,11 +1,25 @@
-Hi there! I'm @Disha520 
+# Welcome to My GitHub Profile! 👋
 
-I'm a passionate developer with a strong interest in Machine Learning and Artificial Intelligence.  I'm currently diving deep into Python, Machine Learning, and Web Development, eager to unlock their potential.
+## 📊 My GitHub Stats
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com?user=Kiwi-520&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiwi-520&show_icons=true&theme=dark&hide_border=true)
 
-I'm particularly enthusiastic about collaborating on projects that leverage AI/ML models and explore the exciting intersection of AI/ML with web development. 
+### Most Used Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi-520&layout=compact&theme=dark&hide_border=true)
 
-Let's connect! I'm always open to discussions, learning opportunities, and potential collaborations. Feel free to reach out and explore the possibilities together.
+---
 
-Pronouns: She/Her
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kiwi-520&theme=darkhub)
 
+---
 
+### 🛠 Tools I Use
+![Visual Studio](https://img.shields.io/badge/Editor-Visual%20Studio-blue)
+![PyCharm](https://img.shields.io/badge/Editor-PyCharm-green)
+![Linux](https://img.shields.io/badge/OS-Linux-orange)
+
+---
+
+## Contribution Activity
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Kiwi-520&theme=github)
