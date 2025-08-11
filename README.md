@@ -22,7 +22,7 @@ A project focused on real-time air quality data collection, analysis, and visual
 This project analyzes energy usage patterns to help users optimize consumption and reduce environmental impact.
 
 ### 3. [Loop Habit Tracker](https://github.com/yourusername/loop-habit-tracker)
-A mobile app for building better habits using data-driven insights and engaging visualizations.
+A web verison of mobile app for building better habits using data-driven insights and engaging visualizations.
 Working in progress.
 
 ---
