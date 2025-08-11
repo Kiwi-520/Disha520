@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Disha!
 
 Welcome to my portfolio! I'm passionate about building impactful projects in data science, machine learning, and software development. Here you'll find highlights of my work, articles, and ways to connect with me.
 
