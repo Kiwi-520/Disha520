@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Disha!
+# 👋 Hi, I'm Disha Holmukhe!
 
 Welcome to my portfolio! I'm passionate about building impactful projects in data science, machine learning, and software development. Here you'll find highlights of my work, articles, and ways to connect with me.
 
@@ -31,7 +31,7 @@ Working in progress.
 
 - [LinkedIn](https://www.linkedin.com/in/dishaholmukhe/)
 - [Medium](https://medium.com/@Disha520)
-- [Email](dishaholmukhe521@gmail.com)
+- Email - dishaholmukhe521@gmail.com
 
 ---
 
